@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is MARK
 #### I am a Frontend Developer
 ![I am a Frontend Developer](https://i.postimg.cc/7Pn0269L/banner.jpg)
-
+I hav ekeen interest in front end development. I enjoy learning new languages and frame works such as React and Materialize. 
 
 
 📫 How to reach me Dataless@gmail.com

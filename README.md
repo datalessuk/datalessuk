@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @datalessuk
-- 👀 I’m interested in Front end development 
-- 🌱 I’m currently learning Javascript
+### Hi there 👋, my name is MARK
+#### I am a Frontend Developer
+![I am a Frontend Developer](https://i.postimg.cc/7Pn0269L/banner.jpg)
+
+
+
 - 📫 How to reach me Dataless@gmail.com
 
 

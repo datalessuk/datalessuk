@@ -4,7 +4,7 @@
 
 
 
-- 📫 How to reach me Dataless@gmail.com
+📫 How to reach me Dataless@gmail.com
 
 
 ### Languages and Tools:

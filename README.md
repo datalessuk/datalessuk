@@ -17,7 +17,7 @@ Hobbies include coding,gaming,cycling,horror films & books,photography and a lit
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" 
 <br />
 
-<img> src="https://www.codewars.com/users/datalessuk/badges/micro"</img>
+<img src="https://www.codewars.com/users/datalessuk/badges/micro"</img>
 <!---
 datalessuk/datalessuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

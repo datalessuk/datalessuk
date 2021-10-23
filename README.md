@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is MARK
 #### I am a Frontend Developer
-![I am a Frontend Developer]
+[I am a Frontend Developer]
 I have a keen interest in front end development. I enjoy learning new languages and frame works such as React and Materialize. 
 Hobbies include coding,gaming,cycling,horror films & books,photography and a little bit obsessed with Avantasia
 

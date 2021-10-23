@@ -18,7 +18,7 @@ Hobbies include coding,gaming,cycling,horror films & books,photography and a lit
 <br />
 <br />
 <br />
-<img align ="left" src="https://www.codewars.com/users/datalessuk/badges/micro" />
+<img align ="left" src="https://www.codewars.com/users/datalessuk/badges/small" />
 <!---
 datalessuk/datalessuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
